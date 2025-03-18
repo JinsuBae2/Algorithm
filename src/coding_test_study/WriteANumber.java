@@ -2,6 +2,7 @@ package coding_test_study;
 
 import java.util.Scanner;
 
+// BOJ 1515
 public class WriteANumber {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
